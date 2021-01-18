@@ -1,2 +1,2 @@
 # sportradar-coding-challenge
-As per instructions I have prepared a calendar for sports events. Events are stored in the events.sql file. index.php is the main file that displays data. It includes calendar.php, calendar.css, and connection.php file.  
+As per instructions I have prepared a calendar for sports events. Events are stored in the events.sql file. index.php is the main file that displays data. It includes calendar.php, calendar.css, and connection.php files.
